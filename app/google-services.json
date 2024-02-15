@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "362097119889",
+    "firebase_url": "https://contactlistsmeetp-default-rtdb.firebaseio.com",
+    "project_id": "contactlistsmeetp",
+    "storage_bucket": "contactlistsmeetp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362097119889:android:bcd00f249942fe06f46530",
+        "android_client_info": {
+          "package_name": "com.example.contactlistsmeetp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8fHgTZOjC-AQnsFoSr10n6HosVXhmM60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362097119889:android:199737f5043db490f46530",
+        "android_client_info": {
+          "package_name": "com.example.testapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8fHgTZOjC-AQnsFoSr10n6HosVXhmM60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
